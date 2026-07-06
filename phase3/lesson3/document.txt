@@ -1,0 +1,21 @@
+Python is a high-level programming language created by Guido van Rossum in 1991.
+It is known for its simple and readable syntax.
+Python is widely used in web development, data science, and artificial intelligence.
+Python supports multiple programming paradigms including procedural and object-oriented.
+
+FastAPI is a modern Python web framework created by Sebastián Ramírez.
+It is one of the fastest Python frameworks available.
+FastAPI uses Python type hints to validate data automatically.
+It generates interactive API documentation at /docs automatically.
+
+RAG stands for Retrieval Augmented Generation.
+It is a technique that combines document search with AI text generation.
+RAG first retrieves relevant document chunks using semantic search.
+Then it passes those chunks to an AI model to generate a grounded answer.
+RAG reduces AI hallucination by grounding answers in real documents.
+
+ChromaDB is an open source vector database.
+It stores text as embeddings which are lists of numbers.
+ChromaDB allows semantic search which finds meaning not just keywords.
+It runs locally with no external account or API key required.
+ChromaDB is commonly used in RAG systems for document storage.
